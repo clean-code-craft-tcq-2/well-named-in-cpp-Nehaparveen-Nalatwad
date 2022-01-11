@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include "colorCode.h"
 
 ColorPair GetColorFromPairNumber(int pairNumber) {
         int zeroBasedPairNumber = pairNumber - 1;
