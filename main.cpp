@@ -1,6 +1,7 @@
 #include <iostream>
 #include <assert.h>
 #include "colorCode.h"
+#include "testColorCode.cpp"
 
 int main() {
     testNumberToPair(4, TelCoColorCoder::WHITE, TelCoColorCoder::BROWN);
